@@ -10,10 +10,10 @@ Diagrama de contexto de eciPaymentsHUB
 
 los patrones de diseño elejidos son 
 
-# Adapter
+## Adapter
 al tener tantos provedores de pagos debe existir un metodo para manejar la informacion y unificarlas para asi garantizar que los datos puedan ser procesados de manera correcta segun la entrada esperada
 
-# Abstract Factory 
+## Abstract Factory 
 al existir tantos tipos de certificado , que aunque son parecidos , son realmente diferentes debe exsitir un metodo de devolver al usuario de acuerdo a sus requerimientos.
 para esto usaremos interfaces para establecer contratos y que los certificados cumplan con requisitos.
 
@@ -27,12 +27,13 @@ README.md)
 
 ## los requerimientos funcionales
 1. se requiere que la informacion de pago se guarde en los servicios de aws
-2. se requiere que cuando los pagos sean en usd se puedan hacer unicamente por stripe
-3. 13221
+2. Para pagos en USD el unico proveedor permitido es Stripe, y si el
+   medio de pago es PSE solo puede utilizarse BancoPSE.
+3. El sistema debe responder en máximo 3 segundos para el 95% de
+   transacciones y debe soportar 200 pagos concurrentes
 
-## los requerimientos no funcionales
+## requerimientos no funcionales
 
-1.fa
-2.dasd
-
+1. los requrimientos visuales como el color de la pagina web
+2.  Debe ser responsive
 
