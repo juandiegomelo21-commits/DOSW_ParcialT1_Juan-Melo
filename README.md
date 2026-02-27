@@ -1,1 +1,7 @@
-# DOSW_ParcialT1_Juan-Melo
+
+
+Diagrama de contexto de eciPaymentsHUB
+
+![img_1.png](img_1.png)
+
+actualizacion de punto 1
