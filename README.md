@@ -38,7 +38,7 @@ README.md)
 1. los requrimientos visuales como el color de la pagina web
 2.  Debe ser responsive
 
-## Punto 4
+# Punto 4
 
 un usuario que esta de intercambio en el extranjero nescecita un certificado para poder graduarse en la universidad 
 
@@ -49,12 +49,12 @@ un usuario que esta de intercambio en el extranjero nescecita un certificado par
 el hub recibe mas procesamiento de pagos debido a más colaboraciones con entidades para ello requieren aumentar su capacidad de procesmaiento
 ![img_3.png](img_3.png)
 
-## Punto 5
+# Punto 5
 
 Adjunto de analisis de requrimientos en PDF
 
 
-## Punto 6
+# Punto 6
 
 en Jira se creo la tarea epica : Integracion de Pasarela Multiprovedor
 
