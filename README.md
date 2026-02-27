@@ -40,11 +40,20 @@ README.md)
 
 ## Punto 4
 
-
+un usuario que esta de intercambio en el extranjero nescecita un certificado para poder graduarse en la universidad 
 
 ![img_2.png](img_2.png)
 
 
 
-
+el hub recibe mas procesamiento de pagos debido a más colaboraciones con entidades para ello requieren aumentar su capacidad de procesmaiento
 ![img_3.png](img_3.png)
+
+## Punto 5
+
+Adjunto de analisis de requrimientos en PDF
+
+
+## Punto 6
+
+
