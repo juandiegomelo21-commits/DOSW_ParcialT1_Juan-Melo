@@ -31,9 +31,20 @@ README.md)
    medio de pago es PSE solo puede utilizarse BancoPSE.
 3. El sistema debe responder en máximo 3 segundos para el 95% de
    transacciones y debe soportar 200 pagos concurrentes
+4. se quiere poder ver el historial de pagos por usuario para que ellos puedan trackear sus transacciones
 
 ## requerimientos no funcionales
 
 1. los requrimientos visuales como el color de la pagina web
 2.  Debe ser responsive
 
+## Punto 4
+
+
+
+![img_2.png](img_2.png)
+
+
+
+
+![img_3.png](img_3.png)
