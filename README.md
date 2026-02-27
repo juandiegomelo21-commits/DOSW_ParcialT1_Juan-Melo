@@ -56,4 +56,18 @@ Adjunto de analisis de requrimientos en PDF
 
 ## Punto 6
 
+en Jira se creo la tarea epica : Integracion de Pasarela Multiprovedor
 
+![img_4.png](img_4.png)
+
+tambien se crearon 3 subtareas para definir los pasos de integracion con stripe
+
+![img_5.png](img_5.png)
+
+con su respectiva historia de Usuario
+
+![img_7.png](img_7.png)
+
+adjunto el link de JIRA: https://juandiegosworkspace-35479084.atlassian.net/jira/software/projects/PARCIAL/summary?atlOrigin=eyJpIjoiYTNkMmJkOWI4YWQ0NDhiOWI1YzgyY2E0ZTIxNWY1ZDMiLCJwIjoiaiJ9
+
+# Punto 7
